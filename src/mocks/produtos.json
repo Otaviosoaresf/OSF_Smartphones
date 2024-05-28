@@ -1,28 +1,28 @@
 [
     {
         "id": 1,
-        "src": "/public/Imagens/SamsungGalaxyS21.jpg",
+        "src": "/Imagens/SamsungGalaxyS21.jpg",
         "alt": "Foto do celular Samsung S21 na cor preta com fundo preto",
         "nome": "Samsung Galaxy S21",
         "preco": 2149.99     
     },
     {
         "id": 2,
-        "src": "/public/Imagens/Iphone13ProMax.jpg",
+        "src": "/Imagens/Iphone13ProMax.jpg",
         "alt": "Foto de dois celulares Iphone 13 pro max em fundo branco",
         "nome": "Iphone 13 Pro Max",
         "preco": 3700.00    
     },
     {
         "id": 3,
-        "src": "/public/Imagens/XiaomiRedmi13C.jpg",
+        "src": "/Imagens/XiaomiRedmi13C.jpg",
         "alt": "Foto de modelo de celular xiaomi com fundo desfocado",
         "nome": "Xiaomi Redmi 13C",
         "preco": 1399.99      
     },
     {
         "id": 4,
-        "src": "/public/Imagens/Iphone15.jpg",
+        "src": "/Imagens/Iphone15.jpg",
         "alt": "Foto de modelo de celular Iphone 15 com fundo preto",
         "nome": "Iphone 15",
         "preco": 4600.00    
